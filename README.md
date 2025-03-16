@@ -3,7 +3,7 @@
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;+I+Love+Working+On+Tech+Projects;Passionate+About+AI+and+Video+Games;Open+to+Collaborations+and+Learning!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1light&label=Profile%20views&color=0e75b6&style=flat" alt="1light" /> </p>
-<img align="right" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611lgx2x63j7qo1zgx5uhs4n1dvur9pxcsyih050klj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" style="margin-bottom: 50" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611lgx2x63j7qo1zgx5uhs4n1dvur9pxcsyih050klj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 - 🔭 I’m currently working on **Cipher Nest**
 
