@@ -1,4 +1,4 @@
-<h1 align="center">👋Hey there, I'm Nasir</h1>
+<h1 align="center">👋Hi there, I'm Light</h1>
 
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;+I+Love+Working+On+Tech+Projects;Passionate+About+AI+and+Video+Games;Open+to+Collaborations+and+Learning!)](https://git.io/typing-svg)
 
