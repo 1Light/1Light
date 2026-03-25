@@ -13,10 +13,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=1light&" alt="GitHub Streak" height="270" alt="Streak Graph"/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1light&show_icons=true&locale=en" height="150" alt="Stats Graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1light&show_icons=true&locale=en&layout=compact" height="150" alt="Languages Graph" />
-</div>
 </div>
 
 <picture>
